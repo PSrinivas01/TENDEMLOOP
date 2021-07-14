@@ -1,0 +1,189 @@
+<!-----DESKTOP------!>
+<html>
+   <head>
+      <title>my html page</title>
+	  <style>
+	       nav{
+		  background: #bd34eb;
+	          height:100px;
+	          width:100%;
+		}
+	      .side-bar{
+	          background:#34b1eb;
+		  height: 30px;
+		  width: 20%;
+		}
+	      .nav-bar-right{
+		   background:#34b1eb;
+		   margin-right: 2vw;
+		   position: fixed;
+		   right:-15;
+		   width:200px;
+		   height: 375px;
+		   top:120;
+		}
+		.down-bar{
+		   background: #34b1eb;
+		   position: fixed;
+		   height: 100px;
+		   width:99%;
+		   top:504;
+				
+		}
+	  </style>
+   </head>
+   <body>
+        <nav>
+          <label class ="logo"></label>
+        </nav>
+        <nav class="side-bar">
+          <ul>
+	 </ul>
+        </nav>
+	<nav class="side-bar">
+	  <ul>
+	  </ul>
+	</nav>
+	<nav class="side-bar">
+	    <ul>
+	    </ul>
+	</nav>
+	<nav class="side-bar">
+	    <ul>
+	    </ul>
+	</nav>
+	<nav class="nav-bar-right">
+	    <ul>
+	    </ul>
+	</nav>
+	<nav class="down-bar">
+	</nav>
+   </body>
+</html>
+
+
+<!----tablet----->
+
+<html>
+   <head>
+      <title>my html page</title>
+	  <style>
+	       nav{
+		  background:#bd34eb;
+		  height:100px;
+		  width:100%;
+	        }
+	     .side-bar{
+	          background:#34b1eb;
+		  height: 15px;
+		  width: 20%;
+		}
+	     .nav-bar-right{
+		  background:#34b1eb;
+		  position:absolute;
+		  width:95%;
+		  height: 100px;
+		  top:425;
+		  right:10;
+		}
+	     .down-bar{
+		  background:#34b1eb;
+		  position: fixed;
+		  height: 50px;
+		  width:97%;
+		  top:530;
+		}
+	  </style>
+   </head>
+   <body>
+	<nav>
+           <label class ="logo"></label>
+	</nav>
+	<nav class="side-bar">
+	    <ul>
+	    </ul>
+        </nav>
+	<nav class="side-bar">
+	     <ul>
+	     </ul>
+	</nav>
+	<nav class="side-bar">
+	     <ul>
+	     </ul>
+	</nav>
+	<nav class="side-bar">
+	      <ul>
+	      </ul>
+	</nav>
+	<nav class="nav-bar-right">
+        </nav>
+        <nav class="down-bar">
+	</nav>
+   </body>
+</html>
+
+
+<!-----mobile------!>
+
+<html>
+   <head>
+      <title>my html page</title>
+	  <style>
+	       nav{
+		  background:#bd34eb;
+	          height:100px;
+		  width:100%;
+		}
+	      .side-bar{
+		  background: #34b1eb;
+		  height: 20px;
+		  width: 100%;
+		}
+	     .nav-bar-right{
+		 background:#34b1eb;
+		 position:absolute;
+		 width:95%;
+		 height: 100px;
+		 top:440;
+		 right:10;
+		}
+	      .down-bar{
+		  background:#34b1eb;
+		  position: fixed;
+		  height: 50px;
+		  width:97%;
+		  top:545;
+		}
+	  </style>
+   </head>
+   <body>
+       <nav>
+          <label class ="logo"></label>
+       </nav>
+       <nav class="side-bar">
+	    <ul>
+	    </ul>
+       </nav>
+       <nav class="side-bar">
+           <ul>
+	  </ul>
+       </nav>
+       <nav class="side-bar">
+	    <ul>
+	    </ul>
+       </nav>
+       <nav class="side-bar">
+	     <ul>
+	     </ul>
+       </nav>
+       <nav class="nav-bar-right">
+       </nav>
+       <nav class="down-bar">
+       </nav>
+   </body>
+</html>
+
+
+
+
+
